@@ -8,8 +8,8 @@ You will need the following to compile, for Windows:
 - [Visual Studio 2019](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
    - Visual Studio 2015 build tools with Windows XP Support (v140_xp)
 - [7Zip](https://www.7-zip.org/) (Optional)
-- [Library.7z]()
-   - Encrpytion Key:  
+- [Library.7z](https://mega.nz/file/eyQyWaiL)
+   - Encrpytion Key: JyaWhnQ6MrvdF5h03ts_4ingrVQzBIcEV4NpU1tcUTY 
 
 ### Setting up Libraries
 

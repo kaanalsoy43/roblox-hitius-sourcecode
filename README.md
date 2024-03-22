@@ -8,6 +8,7 @@ You will need the following to compile, for Windows:
 - Visual Studio 2019
 - Visual Studio 2015 build tools (v140_xp)
 - [Librarie.7z]()
+   - Encrpytion Key:  
 
 ### Setting up Libraries
 

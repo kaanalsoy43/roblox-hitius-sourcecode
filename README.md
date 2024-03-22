@@ -1,6 +1,8 @@
-# Roblox
+# Roblox Hitius Source Code
 
-This is a version of Roblox from 2016 with its source code fixed. The base used is from git.rip, from https://git.rip/exconfidential/roblox/roblox.
+This repository contains fixed hitius source code that can be compiled.<br>
+Acquired from web archive and brought to you in Github!<br>
+ui0ppk has an broken hitius source code, this is the original hitius version so its fixed.
 
 ## Build
 

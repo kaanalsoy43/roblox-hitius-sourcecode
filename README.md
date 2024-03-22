@@ -4,7 +4,7 @@ This repository contains fixed hitius source code that can be compiled.<br>
 Acquired from web archive and brought to you in Github!<br>
 ui0ppk has an broken hitius source code, this is the original hitius version so its fixed.
 
-Libraries are excluded as a .7z file because of the size. See the down bellow for more information.
+Libraries are excluded as a .7z file because of the size. See the down below for more information.
 
 ## Build
 

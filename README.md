@@ -7,13 +7,13 @@ This is a version of Roblox from 2016 with its source code fixed. The base used 
 You will need the following to compile, for Windows:
 - Visual Studio 2019
 - Visual Studio 2015 build tools (v140_xp)
-- [Librarie.7z]()
+- [Library.7z]()
    - Encrpytion Key:  
 
 ### Setting up Libraries
 
 1. Create a folder named "Library" to the root
-2. Unzip the Librarie.7z to the "Library" folder that you created and then continue reading the tutorial.
+2. Unzip the Library.7z to the "Library" folder that you created and then continue reading the tutorial.
 
 ### Boost
 1. Run `bootstrap.bat` in `Library/boost/`. Edit the paths in `build_boost.bat` to correspond to where you are keeping this repository, and run `build_boost.bat`

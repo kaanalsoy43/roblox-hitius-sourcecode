@@ -11,7 +11,8 @@ You will need the following to compile, for Windows:
 
 ### Setting up Libraries
 
-- Unzip the Librarie.7z to the root then continue reading the tutorial.
+1. Create a folder named "Library" to the root
+2. Unzip the Librarie.7z to the "Library" folder that you created and then continue reading the tutorial.
 
 ### Boost
 1. Run `bootstrap.bat` in `Library/boost/`. Edit the paths in `build_boost.bat` to correspond to where you are keeping this repository, and run `build_boost.bat`

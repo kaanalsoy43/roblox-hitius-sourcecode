@@ -24,7 +24,7 @@ You will need the following to compile, for Windows:
       4. C++ ATL for x86 and x64
       5. Desktop Development with C++ from Workloads
 - [7-Zip](https://www.7-zip.org/) (Optional)
-- [Library.7z](https://mega.nz/file/eyQyWaiL) - Exluded Libraries
+- [Library.7z](https://mega.nz/file/eyQyWaiL) - Excluded Libraries
    - Encrpytion Key: `JyaWhnQ6MrvdF5h03ts_4ingrVQzBIcEV4NpU1tcUTY`
 
 ### Setting up Libraries

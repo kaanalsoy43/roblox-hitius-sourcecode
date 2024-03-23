@@ -16,7 +16,7 @@ Libraries are excluded as a .7z file because of the size. [See the down below fo
 
 ### Requirements
 You will need the following to compile, for Windows:
-- [Visual Studio 2019](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
+- [Visual Studio 2017](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
    - You need these Components:
       1. Windows XP Support for C++
       2. Visual Studio 2015 Build Tools (v140_xp or v140)

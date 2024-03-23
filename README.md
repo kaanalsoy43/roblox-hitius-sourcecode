@@ -10,7 +10,7 @@ ui0ppk has an broken hitius source code, this is the original hitius version so 
 roblox-master-main.zip (Owned by ui0ppk, broken and missing some files.) = 781MB<br>
 roblox-master-original.zip included Libraries (Owned by hitius, better and fixed one.) = 915MB
 
-Libraries are excluded as a .7z file because of the size. [See the down below for more information.](#requirements)
+Libraries are excluded as a .7z file because of the size. [See the down below for downloading it](#requirements)
 
 ## Build
 

@@ -4,9 +4,9 @@ This repository contains fixed hitius source code that can be compiled.<br>
 Acquired from web archive and brought to you in Github!<br>
 ui0ppk has an broken hitius source code, this is the original hitius version so its fixed.
 
-## Sizes
-roblox-master-main.zip (owned by ui0ppk, broken and missing some files.) = 781MB<br>
-roblox-master-original.zip included Libraries (owned by hitius, better and fixed one.) = 915MB
+## Sizes & Comparision
+roblox-master-main.zip (Owned by ui0ppk, broken and missing some files.) = 781MB<br>
+roblox-master-original.zip included Libraries (Owned by hitius, better and fixed one.) = 915MB
 
 Libraries are excluded as a .7z file because of the size. [See the down below for more information.](#requirements)
 

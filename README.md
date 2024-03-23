@@ -10,7 +10,12 @@ Libraries are excluded as a .7z file because of the size. See the down below for
 
 You will need the following to compile, for Windows:
 - [Visual Studio 2019](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
-   - Visual Studio 2015 build tools with Windows XP Support (v140_xp)
+   - You need these Components:
+      1. Windows XP Support for C++
+      2. Visual Studio 2015 Build Tools (v140_xp or v140)
+      3. C++ MFC for x86 and x64
+      4. C++ ATL for x86 and x64
+      5. Desktop Development with C++ from Workloads
 - [7-Zip](https://www.7-zip.org/) (Optional)
 - [Library.7z](https://mega.nz/file/eyQyWaiL) - Exluded Libraries
    - Encrpytion Key: `JyaWhnQ6MrvdF5h03ts_4ingrVQzBIcEV4NpU1tcUTY`
@@ -29,11 +34,11 @@ You will need the following to compile, for Windows:
 2. Set your current directory to this repositorys Library/Qt folder.
 3. Run the following command, substituting "${path}" for where you are keeping this repository.
 ```sh
-$ ./configure -make nmake -platform win32-msvc2015 -prefix ${path}\Library\Qt -opensource -confirm-license -opengl desktop -nomake examples -nomake tests -webkit -xmlpatterns
+configure -make nmake -platform win32-msvc2015 -prefix ${path}\Library\Qt -opensource -confirm-license -opengl desktop -nomake examples -nomake tests -webkit -xmlpatterns
 ```
 4. Example command if I kept the repository in `D:\Roblox\Source`:
 ```sh
-$ ./configure -make nmake -platform win32-msvc2015 -prefix D:\Roblox\Source\Library\Qt -opensource -confirm-license -opengl desktop -nomake examples -nomake tests -webkit -xmlpatterns
+configure -make nmake -platform win32-msvc2015 -prefix D:\Roblox\Source\Library\Qt -opensource -confirm-license -opengl desktop -nomake examples -nomake tests -webkit -xmlpatterns
 ```
 5. That will configure everything. Once it is finished, run `nmake`. If you get an error for `rc` not being recognized, add your SDK to PATH.
 6. It should eventually stop and break somewhere, but by that time, you will have all the libraries you need.

@@ -4,10 +4,15 @@ This repository contains fixed hitius source code that can be compiled.<br>
 Acquired from web archive and brought to you in Github!<br>
 ui0ppk has an broken hitius source code, this is the original hitius version so its fixed.
 
-Libraries are excluded as a .7z file because of the size. See the down below for more information.
+## Sizes
+roblox-master-main.zip (owned by ui0ppk, broken and missing some files.) = 781MB<br>
+roblox-master-original.zip included Libraries (owned by hitius, better and fixed one.) = 915MB
+
+Libraries are excluded as a .7z file because of the size. [See the down below for more information.](#requirements)
 
 ## Build
 
+### Requirements
 You will need the following to compile, for Windows:
 - [Visual Studio 2019](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
    - You need these Components:

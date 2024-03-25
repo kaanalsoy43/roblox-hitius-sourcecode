@@ -20,12 +20,11 @@ You will need the following to compile, for Windows:
    - You need these Components:
       1. Visual Studio 2015 Build Tools (v140_xp or v140)
       2. Desktop Development with C++ from Workloads
-- [Visual Studiı 2017](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
+- [Visual Studio 2017](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
    - You need these Components:
      1. Windows XP Support for C++
      2. Visual C++ ATL for x86 and x64
      3. Visual C++ MFC for x86 and x64
-
 - [7-Zip](https://www.7-zip.org/) (Optional)
 - [Library.7z](https://mega.nz/file/eyQyWaiL) - Excluded Libraries
    - Encrpytion Key: `JyaWhnQ6MrvdF5h03ts_4ingrVQzBIcEV4NpU1tcUTY`

@@ -54,7 +54,7 @@ configure -make nmake -platform win32-msvc2015 -prefix D:\Roblox\Source\Library\
 7. Congratulations! You *partially* compiled Qt.
 
 ### Main Roblox projects
-Simply open up Roblox.sln and build. Everything listed as able to compile will compile, unless you're doing something wrong.
+Simply open up Roblox.sln with **Visual Studio 2019** and build. Everything listed as able to compile will compile, unless you're doing something wrong.
 
 ## Libraries
 Library names suffixed with an asterisk (\*) denote a library that is currently out of date.
